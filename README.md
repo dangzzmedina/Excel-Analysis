@@ -26,17 +26,19 @@ My challenges were the formulas I needed to implement to count for the numbers o
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+**What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 The two conclusions I can draw out for Louise are the following:
 *Start the project around summer (May or June). fundraising backers are more willing to monetarily assist in these period of time. 
 *Theater projects is less than 100% of successful theater projects which means if Louise really likes theater projects, to stick with them as backers and the subcategory are more successful around the time she likes to start projects (like the Fever workshop production).
 
-- What can you conclude about the Outcomes based on Goals?
+**What can you conclude about the Outcomes based on Goals?
+
 Louise's play Fever came close to getting to her fundraising goal as her fundraising goal was a little bit high compared to other projects from around the world. If she wishes to have a successful play, she will need to lower her fundraising goal. When the fundraising goals are less than $1000, there is a higher chance of having a successful play.
 
-- What are some limitations of this dataset?
+**What are some limitations of this dataset?
 Some of the limitations of this dataset that goals are not distilled into countries. If we used the dataset into a microlevel, we might be able to show a more precise analysis of what should be recommend to Louise. It is great to see it in a macrolevel and look at different countries, but looking also into the microlevel side can give us more insight. Lastly, if we had a dataset that shows the time when backers assist, she might have a more accurate timeframe on when to look for backers.
 
-- What are some other possible tables and/or graphs that we could create?
+**What are some other possible tables and/or graphs that we could create?
 
 Some other possible tables and/or graphs we could create to give a more enriched analysis would be looking the count of backers by plays in different counties. That way we can see if the plays in her country are more susceptible in meeting the funding goals for her future plays.
